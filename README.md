@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/instinctialcringe" target="blank"><img src="https://img.shields.io/twitter/follow/instinctialcringe?logo=twitter&style=for-the-badge" alt="instinctialcringe" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on **any web related project**
 
