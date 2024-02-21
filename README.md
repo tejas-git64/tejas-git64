@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Tejas</h1>
-<h3 align="center">Frontend Developer, i build elegant UIs</h3>
+<h3 align="center">I build elegant UIs</h3>
 
 <p align="left"> <a href="https://twitter.com/instinctialcringe" target="blank"><img src="https://img.shields.io/twitter/follow/instinctialcringe?logo=twitter&style=for-the-badge" alt="instinctialcringe" /></a> </p>
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **any web related project**
+- 👯 I’m looking to collaborate on any **frontend/web** project
 
 - 👨‍💻 All of my projects are available at [https://tejas-git64.github.io](https://tejas-git64.github.io)
 
